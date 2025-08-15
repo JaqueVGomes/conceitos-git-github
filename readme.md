@@ -48,3 +48,8 @@ Para enviar os commits do pc para o Github utilizamos o push.
 git push
 ```
 
+
+Para baixar o repositório do Github em um noivo computador utilizamos o clone
+```bash 
+git clone < url_do_repositorio_github >
+```
