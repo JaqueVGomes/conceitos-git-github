@@ -37,3 +37,14 @@ Para commit (salvar)
 git commit -m "escrever o que quer comunicar/lembrar"
 ```
 
+Para baixar as alterações que estão apenas no Github utilizamos o pull. 
+**Importante:** Sempre deve baixar a ultima versão da nuvem antes de enviar a atual do computador
+```bash 
+git pull
+```
+
+Para enviar os commits do pc para o Github utilizamos o push.
+```bash 
+git push
+```
+
